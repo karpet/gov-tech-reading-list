@@ -13,6 +13,6 @@ You can see the GitHub Pages version at https://karpet.github.io/gov-tech-readin
 
 ## Books
 
-
+* [A Paradise Built in Hell](https://www.indiebound.org/book/9780143118077) by Rebecca Solnit
 
 ## Articles
