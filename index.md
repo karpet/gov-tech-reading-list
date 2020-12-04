@@ -27,9 +27,15 @@ The [GitHub Pages version](https://karpet.github.io/gov-tech-reading-list/) of t
 * [A Civic Technologist's Practice Guide](https://www.indiebound.org/book/9781735286501) by Cyd Harrell
 * [Lean Impact](https://www.indiebound.org/book/9781119506607) by Ann Mei Chang
 * [The Fifth Risk](https://www.indiebound.org/book/9780393357455) by Michael Lewis
+* [Bureaucracy](https://www.indiebound.org/book/9780465007851) by James Wilson
+* [Infotopia](https://www.indiebound.org/book/9780195340679) by Cass Sunstein
+* [Change of State](https://www.indiebound.org/book/9780262513241) by Sandra Braman
+* [Privacy In Context](https://www.indiebound.org/book/9780804752374) by Helen Nissenbaum
+* [Truth Decay](https://www.rand.org/pubs/research_reports/RR2314.html) by Jennifer Kavanagh and Michael Rich
 
 ## Articles
 
+* [Inside Bureaucracy](https://www.rand.org/content/dam/rand/pubs/papers/2008/P2963.pdf) by Anthony Downs
 * [More Than Code](https://morethancode.cc/report/) from Tech for Social Justice Project
 * [The Behavioural Insights Team Annual Report 2017-18](https://www.bi.team/wp-content/uploads/2019/01/Annual-update-report-BIT-2017-2018.pdf)
 * [Next-Generation Engagement Platforms, and They Are Useful Right Now](https://civichall.org/civicist/next-generation-engagement-platforms-and-how-are-they-useful-right-now-part-1/) by Matt Stempeck
@@ -45,6 +51,7 @@ The [GitHub Pages version](https://karpet.github.io/gov-tech-reading-list/) of t
 * [18F Open Source Policy](https://18f.gsa.gov/open-source-policy/) from 18F
 * [USG Federal Source Code Policy (2016)](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf) from USG OMB
 * [The encasement strategy](https://18f.gsa.gov/2014/09/08/the-encasement-strategy-on-legacy-systems-and-the/) by 18F
+* [De-risking technology](https://derisking-guide.18f.gov/) by 18F
 
 ## Other Lists
 
