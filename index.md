@@ -11,6 +11,10 @@ No effort has been made to rank or categorize, other than by length and medium.
 
 The [GitHub Pages version](https://karpet.github.io/gov-tech-reading-list/) of this list may be easier to bookmark.
 
+## Video
+
+* [The danger of a single story](https://www.ted.com/talks/chimamanda_ngozi_adichie_the_danger_of_a_single_story) Chimamanda Ngozi Adichie ([English transcript](https://www.ted.com/talks/chimamanda_ngozi_adichie_the_danger_of_a_single_story/transcript?language=en))
+
 ## Books
 
 * [A Paradise Built in Hell](https://www.indiebound.org/book/9780143118077) by Rebecca Solnit
@@ -33,6 +37,10 @@ The [GitHub Pages version](https://karpet.github.io/gov-tech-reading-list/) of t
 * [Privacy In Context](https://www.indiebound.org/book/9780804752374) by Helen Nissenbaum
 * [Truth Decay](https://www.rand.org/pubs/research_reports/RR2314.html) by Jennifer Kavanagh and Michael Rich
 * [The Real World of Technology](https://www.indiebound.org/book/9780887846366) by Ursula Franklin
+* [Thinking In Systems](https://www.indiebound.org/book/9781603580557) by Donella Meadows
+* [Dark Matter and Trojan Horses](https://isbnsearch.org/isbn/0992914639) by Dan Hill
+* [Systems of Survival](https://www.indiebound.org/book/9780679748168) by Jane Jacobs
+* [The Death and Life of Great American Cities](https://www.indiebound.org/book/9780679741954) by Jane Jacobs
 
 ## Articles
 
