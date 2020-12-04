@@ -7,7 +7,7 @@ and follow up on some private email and Slack channels. Feel free to [create a P
 
 The "government" links tend to be US-centric but I would be happy to see that change!
 
-No effort has been made to rank or categorize, other than by length and medium.
+No effort has been made to rank or categorize, other than by medium.
 
 The [GitHub Pages version](https://karpet.github.io/gov-tech-reading-list/) of this list may be easier to bookmark.
 
