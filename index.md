@@ -32,6 +32,7 @@ The [GitHub Pages version](https://karpet.github.io/gov-tech-reading-list/) of t
 * [Change of State](https://www.indiebound.org/book/9780262513241) by Sandra Braman
 * [Privacy In Context](https://www.indiebound.org/book/9780804752374) by Helen Nissenbaum
 * [Truth Decay](https://www.rand.org/pubs/research_reports/RR2314.html) by Jennifer Kavanagh and Michael Rich
+* [The Real World of Technology](https://www.indiebound.org/book/9780887846366) by Ursula Franklin
 
 ## Articles
 
