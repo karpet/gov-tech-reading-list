@@ -41,7 +41,7 @@ The [GitHub Pages version](https://karpet.github.io/gov-tech-reading-list/) of t
 * [Dark Matter and Trojan Horses](https://isbnsearch.org/isbn/0992914639) by Dan Hill
 * [Systems of Survival](https://www.indiebound.org/book/9780679748168) by Jane Jacobs
 * [The Death and Life of Great American Cities](https://www.indiebound.org/book/9780679741954) by Jane Jacobs
-* [Good Services: How to Design Services that Work](https://bookshop.org/books/good-services-how-to-design-services-that-work/9789063695439) by Lou Downe
+* [Good Services: How to Design Services that Work](https://www.indiebound.org/book/9789063695439) by Lou Downe
 
 ## Articles
 
