@@ -41,6 +41,7 @@ The [GitHub Pages version](https://karpet.github.io/gov-tech-reading-list/) of t
 * [Dark Matter and Trojan Horses](https://isbnsearch.org/isbn/0992914639) by Dan Hill
 * [Systems of Survival](https://www.indiebound.org/book/9780679748168) by Jane Jacobs
 * [The Death and Life of Great American Cities](https://www.indiebound.org/book/9780679741954) by Jane Jacobs
+* [Good Services: How to Design Services that Work](https://www.indiebound.org/book/9789063695439) by Lou Downe
 
 ## Articles
 
@@ -50,6 +51,7 @@ The [GitHub Pages version](https://karpet.github.io/gov-tech-reading-list/) of t
 * [Next-Generation Engagement Platforms, and They Are Useful Right Now](https://civichall.org/civicist/next-generation-engagement-platforms-and-how-are-they-useful-right-now-part-1/) by Matt Stempeck
 * [Digital Government: Research and Practice](https://dl.acm.org/journal/dgov)
 * [So you want to reform democracy](https://medium.com/civic-tech-thoughts-from-joshdata/so-you-want-to-reform-democracy-7f3b1ef10597) by Joshua Tauberer
+* [Good services are verbs, bad services are nouns](https://designnotes.blog.gov.uk/2015/06/22/good-services-are-verbs-2/) by Gov.UK
 
 ## Government Publications
 
