@@ -42,6 +42,9 @@ The [GitHub Pages version](https://karpet.github.io/gov-tech-reading-list/) of t
 * [Systems of Survival](https://www.indiebound.org/book/9780679748168) by Jane Jacobs
 * [The Death and Life of Great American Cities](https://www.indiebound.org/book/9780679741954) by Jane Jacobs
 * [Good Services: How to Design Services that Work](https://www.indiebound.org/book/9789063695439) by Lou Downe
+* [Design Justice](https://www.indiebound.org/book/9780262043458) by Sasha Costanza-Chock
+* [Sorting Things Out](https://www.indiebound.org/book/9780262522953) by Geoffrey Bowker and Susan Leigh Star
+* [Queer Phenomenology](https://www.indiebound.org/book/9780822339144) by Sara Ahmed
 
 ## Articles
 
