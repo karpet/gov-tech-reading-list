@@ -54,7 +54,6 @@ The [GitHub Pages version](https://karpet.github.io/gov-tech-reading-list/) of t
 * [Next-Generation Engagement Platforms, and They Are Useful Right Now](https://civichall.org/civicist/next-generation-engagement-platforms-and-how-are-they-useful-right-now-part-1/) by Matt Stempeck
 * [Digital Government: Research and Practice](https://dl.acm.org/journal/dgov)
 * [So you want to reform democracy](https://medium.com/civic-tech-thoughts-from-joshdata/so-you-want-to-reform-democracy-7f3b1ef10597) by Joshua Tauberer
-* [Good services are verbs, bad services are nouns](https://designnotes.blog.gov.uk/2015/06/22/good-services-are-verbs-2/) by Gov.UK
 
 ## Government Publications
 
@@ -66,6 +65,7 @@ The [GitHub Pages version](https://karpet.github.io/gov-tech-reading-list/) of t
 * [USG Federal Source Code Policy (2016)](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf) from USG OMB
 * [The encasement strategy](https://18f.gsa.gov/2014/09/08/the-encasement-strategy-on-legacy-systems-and-the/) by 18F
 * [De-risking technology](https://derisking-guide.18f.gov/) by 18F
+* [Good services are verbs, bad services are nouns](https://designnotes.blog.gov.uk/2015/06/22/good-services-are-verbs-2/) by Gov.UK
 
 ## Other Lists
 
