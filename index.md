@@ -14,6 +14,7 @@ The [GitHub Pages version](https://karpet.github.io/gov-tech-reading-list/) of t
 ## Video
 
 * [The danger of a single story](https://www.ted.com/talks/chimamanda_ngozi_adichie_the_danger_of_a_single_story) Chimamanda Ngozi Adichie ([English transcript](https://www.ted.com/talks/chimamanda_ngozi_adichie_the_danger_of_a_single_story/transcript?language=en))
+* [You Only Code as Well as You Listen](https://youtu.be/BMPAdLYSCNI) Sydette Harry
 
 ## Books
 
@@ -71,3 +72,4 @@ The [GitHub Pages version](https://karpet.github.io/gov-tech-reading-list/) of t
 
 * [Reading list on digital gov](https://docs.google.com/document/d/1xuTuEPjMeiIv1Kwxv5MYXFAv1lBnLdO15YuL_oKYxSI/edit) via OpenEugene
 * [Crowdlaw for Congress](https://congress.crowd.law/)
+* [Decolonizing Civic Tech](https://decolonizingcivictech.com/)
