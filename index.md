@@ -46,6 +46,7 @@ The [GitHub Pages version](https://karpet.github.io/gov-tech-reading-list/) of t
 * [Design Justice](https://www.indiebound.org/book/9780262043458) by Sasha Costanza-Chock
 * [Sorting Things Out](https://www.indiebound.org/book/9780262522953) by Geoffrey Bowker and Susan Leigh Star
 * [Queer Phenomenology](https://www.indiebound.org/book/9780822339144) by Sara Ahmed
+* [The Entrepreneurial State](https://www.indiebound.org/book/9781610396134) by [Mariana Mazzucato](https://marianamazzucato.com/entrepreneurial-state/)
 
 ## Articles
 
