@@ -48,6 +48,7 @@ The [GitHub Pages version](https://karpet.github.io/gov-tech-reading-list/) of t
 * [Sorting Things Out](https://www.indiebound.org/book/9780262522953) by Geoffrey Bowker and Susan Leigh Star
 * [Queer Phenomenology](https://www.indiebound.org/book/9780822339144) by Sara Ahmed
 * [The Entrepreneurial State](https://www.indiebound.org/book/9781610396134) by [Mariana Mazzucato](https://marianamazzucato.com/entrepreneurial-state/)
+* [The Government Fix](https://www.senseandrespondpress.com/the-government-fix) by Sara Hudson and Hana Schank
 
 ## Articles
 
