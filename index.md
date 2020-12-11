@@ -15,6 +15,7 @@ The [GitHub Pages version](https://karpet.github.io/gov-tech-reading-list/) of t
 
 * [The danger of a single story](https://www.ted.com/talks/chimamanda_ngozi_adichie_the_danger_of_a_single_story) Chimamanda Ngozi Adichie ([English transcript](https://www.ted.com/talks/chimamanda_ngozi_adichie_the_danger_of_a_single_story/transcript?language=en))
 * [You Only Code as Well as You Listen](https://youtu.be/BMPAdLYSCNI) Sydette Harry
+* [Ethics and Power: Understanding the Role of Shame in UX Research](https://youtu.be/Bsk_Y_Spz38) [Vivianne Castillo](https://medium.com/@viviannecastillo)
 
 ## Books
 
