@@ -30,7 +30,7 @@ The [GitHub Pages version](https://karpet.github.io/gov-tech-reading-list/) of t
 * [The Field Guide to Human Error Investigations](https://www.indiebound.org/book/9781138704268) by Sidney Dekker
 * [Refactoring](https://www.indiebound.org/book/9780134757599) by Martin Fowler
 * [Field Guide: Equity-Centered Community Design](https://www.creativereactionlab.com/store/p/field-guide-equity-centered-community-design) by Creative Reaction Lab
-* [A Civic Technologist's Practice Guide](https://www.indiebound.org/book/9781735286501) by Cyd Harrell
+* [A Civic Technologist's Practice Guide](https://www.indiebound.org/book/9781735286501) by Cyd Harrell (includes extensive reading list at the end)
 * [Lean Impact](https://www.indiebound.org/book/9781119506607) by Ann Mei Chang
 * [The Fifth Risk](https://www.indiebound.org/book/9780393357455) by Michael Lewis
 * [Bureaucracy](https://www.indiebound.org/book/9780465007851) by James Wilson
@@ -58,6 +58,7 @@ The [GitHub Pages version](https://karpet.github.io/gov-tech-reading-list/) of t
 * [Next-Generation Engagement Platforms, and They Are Useful Right Now](https://civichall.org/civicist/next-generation-engagement-platforms-and-how-are-they-useful-right-now-part-1/) by Matt Stempeck
 * [Digital Government: Research and Practice](https://dl.acm.org/journal/dgov)
 * [So you want to reform democracy](https://medium.com/civic-tech-thoughts-from-joshdata/so-you-want-to-reform-democracy-7f3b1ef10597) by Joshua Tauberer
+* [Inside the Clubcard Panopticon: Why Dominic Cummings’ Seeing Room Might Not See All That Much](https://medium.com/swlh/inside-the-clubcard-panopticon-why-dominic-cummings-seeing-room-might-not-see-all-that-much-f940a48ae1cd) by Rachel Coldicutt
 
 ## Government Publications
 
