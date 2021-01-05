@@ -49,6 +49,11 @@ The [GitHub Pages version](https://karpet.github.io/gov-tech-reading-list/) of t
 * [Queer Phenomenology](https://www.indiebound.org/book/9780822339144) by Sara Ahmed
 * [The Entrepreneurial State](https://www.indiebound.org/book/9781610396134) by [Mariana Mazzucato](https://marianamazzucato.com/entrepreneurial-state/)
 * [The Government Fix](https://www.senseandrespondpress.com/the-government-fix) by Sara Hudson and Hana Schank
+* [The Fix](https://www.penguinrandomhouse.com/books/249793/the-fix-by-jonathan-tepperman/) by Jonathan Tepperman
+* [Hiring Engineers](https://leanpub.com/hiring-engineers/) by Marianne Bellotti
+* [Kill It With Fire](https://nostarch.com/kill-it-fire) by Marianne Bellotti
+* [Logic 11: Care](https://logicmag.io/care/) by Christa Hartsock, et al. 
+
 
 ## Articles
 
