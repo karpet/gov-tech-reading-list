@@ -76,6 +76,7 @@ The [GitHub Pages version](https://karpet.github.io/gov-tech-reading-list/) of t
 * [The encasement strategy](https://18f.gsa.gov/2014/09/08/the-encasement-strategy-on-legacy-systems-and-the/) by 18F
 * [De-risking technology](https://derisking-guide.18f.gov/) by 18F
 * [Good services are verbs, bad services are nouns](https://designnotes.blog.gov.uk/2015/06/22/good-services-are-verbs-2/) by Gov.UK
+* [HealthCare.gov: Case Study of CMS Management of the Federal Marketplace](https://oig.hhs.gov/oei/reports/oei-06-14-00350.asp)
 
 ## Other Lists
 
