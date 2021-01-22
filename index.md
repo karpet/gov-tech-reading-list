@@ -64,6 +64,7 @@ The [GitHub Pages version](https://karpet.github.io/gov-tech-reading-list/) of t
 * [Digital Government: Research and Practice](https://dl.acm.org/journal/dgov)
 * [So you want to reform democracy](https://medium.com/civic-tech-thoughts-from-joshdata/so-you-want-to-reform-democracy-7f3b1ef10597) by Joshua Tauberer
 * [Inside the Clubcard Panopticon: Why Dominic Cummings’ Seeing Room Might Not See All That Much](https://medium.com/swlh/inside-the-clubcard-panopticon-why-dominic-cummings-seeing-room-might-not-see-all-that-much-f940a48ae1cd) by Rachel Coldicutt
+* [Transitioning from private to public sector: Lessons learned from those who experienced it](https://medium.com/project-redesign/transitioning-from-private-to-public-sector-lessons-learned-from-those-who-experienced-it-5991c7c870f2) by Dana Chisnell
 
 ## Government Publications
 
