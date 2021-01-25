@@ -84,3 +84,4 @@ The [GitHub Pages version](https://karpet.github.io/gov-tech-reading-list/) of t
 * [Reading list on digital gov](https://docs.google.com/document/d/1xuTuEPjMeiIv1Kwxv5MYXFAv1lBnLdO15YuL_oKYxSI/edit) via OpenEugene
 * [Crowdlaw for Congress](https://congress.crowd.law/)
 * [Decolonizing Civic Tech](https://decolonizingcivictech.com/)
+* [Teaching Public Service in the Digital Age](https://www.teachingpublicservice.digital/syllabus)
