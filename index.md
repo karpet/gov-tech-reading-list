@@ -53,6 +53,7 @@ The [GitHub Pages version](https://karpet.github.io/gov-tech-reading-list/) of t
 * [Hiring Engineers](https://leanpub.com/hiring-engineers/) by Marianne Bellotti
 * [Kill It With Fire](https://nostarch.com/kill-it-fire) by Marianne Bellotti
 * [Logic 11: Care](https://logicmag.io/care/) by Christa Hartsock, et al. 
+* [Winners Take All: The Elite Charade of Changing the World](https://www.indiebound.org/book/9780451493248) by Anand Giridharadas
 
 
 ## Articles
