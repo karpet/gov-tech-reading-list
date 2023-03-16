@@ -31,6 +31,7 @@ The [GitHub Pages version](https://karpet.github.io/gov-tech-reading-list/) of t
 * [Refactoring](https://www.indiebound.org/book/9780134757599) by Martin Fowler
 * [Field Guide: Equity-Centered Community Design](https://www.creativereactionlab.com/store/p/field-guide-equity-centered-community-design) by Creative Reaction Lab
 * [A Civic Technologist's Practice Guide](https://www.indiebound.org/book/9781735286501) by Cyd Harrell (includes extensive reading list at the end)
+* [Hack Your Bureaucracy: Get Things Done No Matter What Your Role on Any Team](https://www.indiebound.org/book/9780306827754) by Marina Nitza and Nick Sinai
 * [Lean Impact](https://www.indiebound.org/book/9781119506607) by Ann Mei Chang
 * [The Fifth Risk](https://www.indiebound.org/book/9780393357455) by Michael Lewis
 * [Bureaucracy](https://www.indiebound.org/book/9780465007851) by James Wilson
