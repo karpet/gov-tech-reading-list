@@ -56,6 +56,7 @@ The [GitHub Pages version](https://karpet.github.io/gov-tech-reading-list/) of t
 * [Logic 11: Care](https://logicmag.io/care/) by Christa Hartsock, et al. 
 * [Winners Take All: The Elite Charade of Changing the World](https://www.indiebound.org/book/9780451493248) by Anand Giridharadas
 * [Distributed Teams: The Art and Practice of Working Together While Physically Apart](https://distributedteamsbook.com) by John O'Duinn
+* [Building the Virtual State: Information Technology and Institutional Change](https://www.brookings.edu/book/building-the-virtual-state/)
 
 
 ## Articles
