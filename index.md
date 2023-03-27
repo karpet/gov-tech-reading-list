@@ -54,9 +54,14 @@ The [GitHub Pages version](https://karpet.github.io/gov-tech-reading-list/) of t
 * [Hiring Engineers](https://leanpub.com/hiring-engineers/) by Marianne Bellotti
 * [Kill It With Fire](https://nostarch.com/kill-it-fire) by Marianne Bellotti
 * [Logic 11: Care](https://logicmag.io/care/) by Christa Hartsock, et al. 
-* [Winners Take All: The Elite Charade of Changing the World](https://www.indiebound.org/book/9780451493248) by Anand Giridharadas
+* [Winners Take All: The Elite Charade of Changing the World](https://www.indiebound.org/book/9781101972670) by Anand Giridharadas
 * [Distributed Teams: The Art and Practice of Working Together While Physically Apart](https://distributedteamsbook.com) by John O'Duinn
-* [Building the Virtual State: Information Technology and Institutional Change](https://www.brookings.edu/book/building-the-virtual-state/)
+* [Building the Virtual State: Information Technology and Institutional Change](https://www.brookings.edu/book/building-the-virtual-state/) by Jane Fountain
+* [Smart Citizens, Smarter State](https://www.indiebound.org/book/9780674286054) by Beth Simone Noveck
+* [Smart Cities: Big Data, Civic Hackers, and the Quest for a New Utopia](https://www.indiebound.org/book/9780393349788) by Anthony Townsend
+* [The Responsive City: Engaging Communities Through Data-Smart Governance](https://www.indiebound.org/book/9781118910900) by Stephen Goldsmith and Susan Crawford
+* [Power to the Public](https://www.indiebound.org/book/9780691207759) by Tara Dawson McGuinness and Hana Schank
+* [Democracy Reinvented](https://www.indiebound.org/book/9780815726821) by Hollie Russon Gilman
 
 
 ## Articles
