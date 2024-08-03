@@ -62,7 +62,7 @@ The [GitHub Pages version](https://karpet.github.io/gov-tech-reading-list/) of t
 * [The Responsive City: Engaging Communities Through Data-Smart Governance](https://www.indiebound.org/book/9781118910900) by Stephen Goldsmith and Susan Crawford
 * [Power to the Public](https://www.indiebound.org/book/9780691207759) by Tara Dawson McGuinness and Hana Schank
 * [Democracy Reinvented](https://www.indiebound.org/book/9780815726821) by Hollie Russon Gilman
-
+* [The Ghost Map](https://bookshop.org/p/books/the-ghost-map-with-earbuds-steven-johnson/15546357?ean=9781594482694) by Steven Johnson
 
 ## Articles
 
