@@ -74,6 +74,7 @@ The [GitHub Pages version](https://karpet.github.io/gov-tech-reading-list/) of t
 * [So you want to reform democracy](https://medium.com/civic-tech-thoughts-from-joshdata/so-you-want-to-reform-democracy-7f3b1ef10597) by Joshua Tauberer
 * [Inside the Clubcard Panopticon: Why Dominic Cummings’ Seeing Room Might Not See All That Much](https://medium.com/swlh/inside-the-clubcard-panopticon-why-dominic-cummings-seeing-room-might-not-see-all-that-much-f940a48ae1cd) by Rachel Coldicutt
 * [Transitioning from private to public sector: Lessons learned from those who experienced it](https://medium.com/project-redesign/transitioning-from-private-to-public-sector-lessons-learned-from-those-who-experienced-it-5991c7c870f2) by Dana Chisnell
+* [Making Product Work in Public Services](https://open.substack.com/pub/ayeshamoarif/p/making-product-work-in-public-services) by Ayesha Moarif
 
 ## Government Publications
 
@@ -81,10 +82,10 @@ The [GitHub Pages version](https://karpet.github.io/gov-tech-reading-list/) of t
 * [Social and Behavioral Sciences Team Annual Report (2015)](https://www.ideas42.org/wp-content/uploads/2015/09/sbst_2015_annual_report_final_9_14_15.pdf) from USG National Science and Technology Council
 * [Social and Behavioral Sciences Team Annual Report (2016)](https://www.whitehouse.gov/sites/whitehouse.gov/files/images/2016%20Social%20and%20Behavioral%20Sciences%20Team%20Annual%20Report.pdf) from USG National Science and Technology Council
 * [Boiling Frogs](https://github.com/gchq/BoilingFrogs/blob/master/GCHQ_Boiling_Frogs.pdf) from GCHQ (UK)
-* [18F Open Source Policy](https://18f.gsa.gov/open-source-policy/) from 18F
+* [18F Open Source Policy](https://github.com/18F/open-source-policy) from 18F
 * [USG Federal Source Code Policy (2016)](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf) from USG OMB
-* [The encasement strategy](https://18f.gsa.gov/2014/09/08/the-encasement-strategy-on-legacy-systems-and-the/) by 18F
-* [De-risking technology](https://derisking-guide.18f.gov/) by 18F
+* [The encasement strategy](https://blog.18f.org/2014/09/08/the-encasement-strategy-on-legacy-systems-and-the/) by 18F
+* [De-risking technology](https://guides.18f.org/derisking-government-tech/) by 18F
 * [Good services are verbs, bad services are nouns](https://designnotes.blog.gov.uk/2015/06/22/good-services-are-verbs-2/) by Gov.UK
 * [HealthCare.gov: Case Study of CMS Management of the Federal Marketplace](https://oig.hhs.gov/oei/reports/oei-06-14-00350.asp)
 
